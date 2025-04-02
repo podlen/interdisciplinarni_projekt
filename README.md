@@ -82,7 +82,7 @@ If you use this code or data in your research, please cite:
 @software{podlipnik_cube_localization_2024,
   author = {Podlipnik, Enej},
   title = {{Cube Localization using U-Net Autoencoders from Synthetic Sensor Data}},
-  year = {2024},
+  year = {2025},
   publisher = {GitHub},
   url = {https://github.com/podlen/interdisciplinarni_projekt.git}
 }
