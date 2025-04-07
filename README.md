@@ -91,9 +91,3 @@ If you use this code or data in your research, please cite:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-Enej Podlipnik
-Faculty of Mechanical Engineering (Fakulteta za strojništvo)
-University of Ljubljana (Univerza v Ljubljani)
